@@ -196,14 +196,14 @@ if __name__ == '__main__':
         if is_server_at_hostname(ip):
             dprk_ips_with_servers.append(ip)
             print(' --> server found')
-
+    print('dprk_ips_with_servers=', dprk_ips_with_servers)
 
 ########################################
 # Once you've completed the tasks above,
 # the following code should output the list of IP addresses.
 # You don't have to modify anything here.
 ########################################
-print('dprk_ips_with_servers=', dprk_ips_with_servers)
+
 
 ########################################
 # FIXME 3:
