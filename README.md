@@ -1,6 +1,6 @@
 # WarDialNorthKorea
 
-This program uses wardial to scan all IP addresses that are assigned to North Korea to see which ones are active and therefore get a TOTAL count of how many are active in North Korea. 
+This program uses wardial to scan all IP addresses that are assigned to North Korea to see which ones are active and therefore get a return of which IPs are active in North Korea. 
 
 ![Doctests](https://github.com/NicoLS18/WarDialNorthKorea/actions/workflows/tests.yml/badge.svg)
 
